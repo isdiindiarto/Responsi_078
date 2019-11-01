@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="activity_pertama">activity pertama</string>
+    <string name="klik">klik</string>
+    <string name="back">back</string>
+    <string name="todo">TODO</string>
+</resources>
